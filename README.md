@@ -15,10 +15,10 @@ AI products. This repo holds **weekly reflections**, **project ideas**, and a fe
 
 | Week | Dates | Headline |
 | ---- | ------ | -------- |
-| 04 | 16 – 22 Jun 2025 | Poetry packaging, FastAPI MVP [[read]](journal/week-04.md) |
-| 03 | 09 – 15 Jun 2025 | File I/O + Pandas KPIs [[read]](journal/week-03.md) |
-| 02 | 02 – 08 Jun 2025 | Libraries & Unit Tests [[read]](journal/week-02.md) |
-| 01 | 26 May – 01 Jun 2025 | Tooling setup + first code [[read]](journal/week-01.md) |
+| 04 | 16 – 22 Jun 2025 | Poetry packaging, FastAPI MVP [[read]](journal/week_04.md) |
+| 03 | 09 – 15 Jun 2025 | File I/O + Pandas KPIs [[read]](journal/week_03.md) |
+| 02 | 02 – 08 Jun 2025 | Libraries & Unit Tests [[read]](journal/week_02.md) |
+| 01 | 26 May – 01 Jun 2025 | Tooling setup + first code [[read]](journal/week_01.md) |
 
 <details>
 <summary>Older weeks ▷ archive</summary>
