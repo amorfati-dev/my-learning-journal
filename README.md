@@ -15,6 +15,7 @@ AI products. This repo holds **weekly reflections**, **project ideas**, and a fe
 
 | Week | Dates | Headline |
 | ---- | ------ | -------- |
+| 05 | 23 – 29 Jun 2025 | Fly.io deploy · HTML emails · IBM GenAI badge [read](journal/week_05.md) |
 | 04 | 16 – 22 Jun 2025 | Poetry packaging, FastAPI MVP [[read]](journal/week_04.md) |
 | 03 | 09 – 15 Jun 2025 | File I/O + Pandas KPIs [[read]](journal/week_03.md) |
 | 02 | 02 – 08 Jun 2025 | Libraries & Unit Tests [[read]](journal/week_02.md) |
@@ -36,3 +37,4 @@ See **journal/archive.md** for weeks 00–…
 4. **Stage 4** – Startup or top-tier role (Year 3)  
 
 *The detailed PDF lives in `/docs/roadmap`.*  
+            
