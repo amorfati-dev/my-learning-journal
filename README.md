@@ -16,6 +16,7 @@ AI products. This repo holds **weekly reflections**, **project ideas**, and a fe
 | Week | Dates | Headline |
 | ---- | ------ | -------- |
 | 06 | 30 Jun – 6 Jul 2025 | SQLite persistence · CS50P L7 + pset 7 · IBM Intro to AI · Exercism challenge solved [[read]](journal/week_06.md) |
+| 05 | 23 – 29 Jun 2025 | Fly.io deploy · HTML emails · IBM GenAI badge [read](journal/week_05.md) |
 | 04 | 16 – 22 Jun 2025 | Poetry packaging, FastAPI MVP [[read]](journal/week_04.md) |
 | 03 | 09 – 15 Jun 2025 | File I/O + Pandas KPIs [[read]](journal/week_03.md) |
 | 02 | 02 – 08 Jun 2025 | Libraries & Unit Tests [[read]](journal/week_02.md) |
